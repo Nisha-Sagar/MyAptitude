@@ -2,3 +2,5 @@ Below are the instructions for generating question collections based on the file
 
 1. Create a collection.
 2. Click on "Add Data" and insert data (specifically for question collections).
+
+![image](https://github.com/Nisha-Sagar/MyAptitude/assets/121662936/2b0b629f-1e2b-4dde-9a6f-31b6f481af86)
