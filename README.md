@@ -5,15 +5,15 @@ People prefer shortcuts in today's fast-paced world—the quickest, fastest, eas
 
 ## Implementation Details:
 
-### 1.	Methodology and Algorithms:
+#### 1.	Methodology and Algorithms:
 The methodology for developing the Online Aptitude Exam Generation System follows a systematic approach, incorporating various stages from data collection to system implementation. It ensures the seamless integration of web scraping techniques for data collection, along with provisions for client-provided data in CSV format.
 
-### 2.	Data Collection:
+#### 2.	Data Collection:
 Data collection is a crucial phase in building the system's question bank and informing the question generation algorithm. It involves: 
 •	Web Scraping: Utilizing web scraping techniques to extract aptitude questions from online resources, educational websites, and question banks. This automated process involves parsing HTML pages, extracting relevant text and metadata, and storing the data in a structured format.
 •	Client-Provided Data: Providing clients with the option to upload their question data in CSV format. This allows for customization and integration of proprietary question banks or specific question sets tailored to the client's requirements.
 
-### 3.	Algorithm Design: 
+#### 3.	Algorithm Design: 
 The algorithms for the Online Aptitude Exam Generation System are meticulously crafted to handle diverse website structures for efficient data extraction and question selection. The web scraping algorithm, tailored for each website, ensures adaptability to varying layouts and structures, facilitating comprehensive data collection. BeautifulSoup: A Python library designed for web scraping tasks, particularly for parsing HTML and XML documents. It provides convenient methods and structures for navigating, searching, and manipulating the parsed data.
 
 
