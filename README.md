@@ -14,7 +14,8 @@ Data collection is a crucial phase in building the system's question bank and in
 •	Client-Provided Data: Providing clients with the option to upload their question data in CSV format. This allows for customization and integration of proprietary question banks or specific question sets tailored to the client's requirements.
 
 #### 3.	Algorithm Design: 
-The algorithms for the Online Aptitude Exam Generation System are meticulously crafted to handle diverse website structures for efficient data extraction and question selection. The web scraping algorithm, tailored for each website, ensures adaptability to varying layouts and structures, facilitating comprehensive data collection. BeautifulSoup: A Python library designed for web scraping tasks, particularly for parsing HTML and XML documents. It provides convenient methods and structures for navigating, searching, and manipulating the parsed data.
+The algorithms for the Online Aptitude Exam Generation System are meticulously crafted to handle diverse website structures for efficient data extraction and question selection. The web scraping algorithm, tailored for each website, ensures adaptability to varying layouts and structures, facilitating comprehensive data collection. 
+BeautifulSoup: A Python library designed for web scraping tasks, particularly for parsing HTML and XML documents. It provides convenient methods and structures for navigating, searching, and manipulating the parsed data.
 
 
 ## Working
