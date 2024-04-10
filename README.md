@@ -1,4 +1,4 @@
-# MyAptitude - ONLINE APTITUDE EXAM GENERATION SYSTEM USING WEB SCRAPING
+# MyAptitude - Online aptitude exam generation system using web scraping
 
 In today's fast-paced world, where efficiency is key, creating diverse sets of aptitude questions can be challenging for companies conducting employee rounds. Students and freshers face difficulties in clearing crucial aptitude tests for competitive exams and job interviews. To address this, we're developing an Online Aptitude Exam Generation System. The MyAptitude will provide real-time generation of aptitude question papers, helping students practice and excel in the competitive job market.
 
@@ -16,8 +16,11 @@ The proposed system ensures minimal human intervention, relying on machines to f
 
 Imagine being part of a project team working towards creating an online platform for real-time generation of aptitude exams. Our approach involves moving away from static question sets and adopting a dynamic system that fetches questions as needed, utilizing web scraping from various sources. This not only keeps the exams current but also minimizes the risk of question paper leaks, a critical concern in education. This innovative system aims to alleviate the manual workload of examiners who spend considerable time creating question sets. By automating the process, the platform efficiently generates diverse and relevant questions, enhancing exam quality and allowing educators to redirect their focus to other essential tasks. 
 
-## FlowChart
+## Working
 ![diagram](https://github.com/Nisha-Sagar/MyAptitude/assets/121662936/20a9b8af-c8ad-40c9-85a1-bf1502997312)
+
+## Flow Diagram
+![flow](https://github.com/Nisha-Sagar/MyAptitude/assets/121662936/783e4276-998b-4b50-93b9-569dec341ee3)
 
 
 Join us on GitHub to contribute to this project!
